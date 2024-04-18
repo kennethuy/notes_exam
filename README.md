@@ -1,7 +1,7 @@
 # notes_exam
 This is for my API exam
 
-This Springboot application will run on jdk11 tomcat 10
+This Springboot application will run on jdk17 tomcat 10
 This was compile and run using Intellij IDE
 Open the project on Intellijji and build and run
 Access on port 8080
